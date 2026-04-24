@@ -34,7 +34,7 @@ Aplicação web de gerenciamento de tarefas desenvolvida com React, permitindo a
 
 ## 🔗 Acesse o projeto
 
-👉 Em breve disponível online
+👉 https://todo-react-three-jade.vercel.app/
 
 ---
 
